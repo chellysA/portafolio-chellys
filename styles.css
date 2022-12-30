@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    background: linear-gradient(rgb(255, 255, 255) 40%, rgb(188, 188, 189) 150%);
+}
+
+#navbar{
+    display: flex;
+    border-bottom: 1px rgb(185, 182, 182) solid;
+    position: fixed;
+    top: 0;
+    backdrop-filter: blur(5px);
+}
+.logo{
+    width: 12%;
+    padding: 12px;
+    border-radius: 18px;
+}
+h1{
+    font-size: 20px;
+    margin: 23px 0;
+}
+.dark-mode-moon{
+    width: 20px;
+    padding-left: 66px;
+}
+.hamburger-icon{
+    width: 55px;
+    padding: 5px;
+    margin-left: 30px;
+}
+#introduce{
+    margin: 110px 45px 80px 55px;
+    text-align: center;
+}
+.title{
+    font-size: 35px;
+    margin: 0 5px;
+    text-align: center;
+}
+#descript{
+    color: rgb(148, 144, 144);
+    font-size: 19px;
+}
+#head-type{
+    background-color: rgb(174, 214, 202);
+    border-radius: 7px 7px 0 0;
+    height: 40px;
+
+}
+.ts-icon{
+    width: 18px;
+    height: 18px;
+}
+#about-me{
+    width: 95%;
+    margin: 10px;
+}
+#head-logo{
+    width: 30%;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    border-top: 1px blue solid;
+    border-right: 1px grey solid;
+    margin-left: 12px;
+}
+.dot{
+    width: 22px;
+    
+}
+#type{
+    background-color: white;
+    overflow-x: auto;
+    height: 150px;
+}
+span{
+    color: grey;
+}
+code{
+    color: rgb(94, 94, 94);
+}
+h3{
+    margin: 60px 0;
+    font-size: 30px;
+}
+.projects{
+    display: flex;
+    border-radius: 10px 0;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+p{
+    font-size: 25px;
+    margin: 5px 10px;
+}
+.descr{
+    font-size: 20px;
+    color: gray;
+}
+#proimg{
+    max-width: 100px;
+
+}
+#sub-title{
+    font-size: 22px;
+    color: #478ac5;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#text{
+    font-size: 19px;
+    margin: 0px 10px;
+}
+h3{
+    margin: 50px 5px 40px;
+    text-align: center;
+    font-size: 32px;
+}
+h4{
+    font-size: 30px;
+    color: rgb(105, 102, 102);
+    text-align: left;
+    width: 1100px;
+   
+}
+#languages{
+    overflow-y: auto;
+    
+}
+#navbar-down{
+    margin: 40px 10px;
+    display: flex;
+}
+ul{
+    list-style: none;
+}
+ul > li{
+    padding: 20px;
+    padding: 20px;
+    font-size: 17px;
+    color: rgb(98, 96, 96);
+}
+#navbar-d{
+    display: flex;
+}
+#social-media{
+    display: flex;
+    border-bottom: 1px grey solid;
+    margin-bottom: 15px;
+}
+.sm-icon{
+    padding: 20px 10px;
+}
