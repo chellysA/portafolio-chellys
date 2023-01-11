@@ -48,7 +48,7 @@ h1{
 }
 #descript{
     color: rgb(148, 144, 144);
-    font-size: 16px;
+    font-size: 15px;
 }
 #head-type{
     background-color: rgb(174, 214, 202);
@@ -66,7 +66,7 @@ h1{
     
 }
 #head-logo{
-    width: 30%;
+    width: 35%;
     padding: 8px 0px;
     display: flex;
     align-items: center;
@@ -122,7 +122,7 @@ code{
     
 p{
     font-size: 19px;
-    margin: 5px 10px;
+    margin: 5px 6px;
 }
 .descr{
     font-size: 17px;
@@ -141,8 +141,9 @@ p{
     margin-bottom: 20px;
 }
 #text{
-    font-size: 16px;
-    margin: 0px 10px;
+    font-size: 15px;
+    margin: 0px 5px;
+    line-height: 1.5;
 }
 h3{
     margin: 75px 5px 50px;
@@ -185,7 +186,7 @@ ul > li{
 #social-media{
     display: flex;
     border-bottom: 1px grey solid;
-    margin-bottom: 15px;
+    margin-bottom: 32px;
 }
 .sm-icon{
     padding: 20px 13px;
@@ -236,4 +237,24 @@ ul > li{
     padding-left: 12px;
     display: flex;
     color: rgb(148, 144, 144)
+}
+.title-about{
+    font-size: 32px;
+    margin: 100px 29px 0px 10px;
+    text-align: left;
+}
+.text1{
+    margin-bottom: 55px;
+    font-size: 15px;
+    line-height: 1.5;
+}
+#bocina{
+    width: 21px;
+    padding: 0 5px;
+    position: relative;
+    top: 5px;
+}
+#myname{
+    border-bottom: 1px solid black;
+    font-weight: 600;
 }
