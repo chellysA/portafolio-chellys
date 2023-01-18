@@ -240,21 +240,28 @@ ul > li{
 }
 .title-about{
     font-size: 32px;
-    margin: 100px 29px 0px 10px;
+    margin: 100px 64px 0px 10px;
+    flex-wrap: wrap;
     text-align: left;
 }
 .text1{
-    margin-bottom: 55px;
     font-size: 15px;
     line-height: 1.5;
+    margin: 0px 7px 70px 12px;
 }
-#bocina{
+#icon-text{
     width: 21px;
     padding: 0 5px;
     position: relative;
     top: 5px;
 }
-#myname{
+#link{
     border-bottom: 1px solid black;
     font-weight: 600;
+}
+#sub-title2{
+    font-size: 18px;
+    color: rgb(26 86 219);
+    font-weight: bold;
+    margin: 20px 12px;
 }
